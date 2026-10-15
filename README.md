@@ -3,4 +3,4 @@
 **Integrantes del Proyecto**
 -Allison Peña
 -Rodrigo Abishai
--Ángel Uriel
+-Ángel Uriel canul
